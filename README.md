@@ -1,7 +1,6 @@
-# Discordbot
-This bot is capable of scraping webpages and communicate with Discord's API to seamlessly recieve requests and send screenshots of various websites
+# Chogg
 
-
+Chogg is a webpage scraping bot developed using Node.js that  interfaces with the Discord API, a voice, video and text chat application, to automatically scrape and message users of websites blocked by subscription paywalls.
 
 # Installation
 
