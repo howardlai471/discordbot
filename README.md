@@ -3,10 +3,8 @@ This bot is capable of scraping webpages and communicate with Discord's API to s
 
 
 
-# Dependencies
+# Installation
 
 ```cmd
 npm install nodejs discord.js puppeteer-extra puppeteer-extra-plugin-stealth user-agents
 ```
-
-## Usage
