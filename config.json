@@ -1,7 +1,7 @@
 {
   "prefix": "!",
   "cheggCommand": "chegg",
-  "token": "NjUwOTM1MjgyMDY1MjExNDEz.XeSlbQ.4pZmEwYctLW9XJA4guc6BvdzfEE",
-  "channelID": "650940039525695509",
-  "testChannelID": "666874840405508108"
+  "token": "<Token Goes Here>",
+  "channelID": "<Channel ID Goes Here>",
+  "testChannelID": "<Test Channel ID Goes Here>"
 }
